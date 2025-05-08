@@ -42,10 +42,6 @@ For full license terms, see: [https://creativecommons.org/licenses/by/4.0/](http
 
 If you use any part of my work, please credit me by including a link to this repository and my name as the original author.
 
-Example:
-
-> Scene based on work by [Your Name] - [GitHub Repository URL]
-
 ---
 
 Thanks for visiting, and enjoy exploring the projects!
